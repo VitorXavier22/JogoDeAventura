@@ -17,7 +17,7 @@ button {
   display: none;
 }
 .passo.ativo {
-  display:bloock;
+  display:block;
 }
 main {
   text-align: center;
